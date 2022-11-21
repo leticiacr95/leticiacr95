@@ -1,7 +1,7 @@
 <h2>Prazer, me chamo Letícia e você está no meu Gith.</h2>
 <ul>
 <li> 
-🌱 Estudando Python para Ciência de Dados 💻:
+🌱 Estudando Python para Ciência de Dados 💻
 </li>
 <li>
  💞️ À procura do Home-Office
@@ -13,7 +13,7 @@
  👧 Pronomes: Ela/Dela
 </li>
 <ul>
-  ##
+  
 <div>
   <a href="https://beacons.ai/leticiacr95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiacr95&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,7 @@
   <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leticia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Leticia-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg">
-  <img align="center" alt="Leticia-´Profile" height="220" width="260" src="[https://github.com/leticiacr95/leticiacr95/blob/main/me.png]">
+  <img align="left" alt="Leticia-´Profile" height="220" width="260" src="[https://github.com/leticiacr95/leticiacr95/blob/main/me.png]">
   </div> 
  
 
