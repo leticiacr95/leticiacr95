@@ -1,7 +1,7 @@
 <h2>Prazer, me chamo Letícia e você está no meu Gith.</h2>
 <ul>
 <li> 
-🌱 Estudando Python para Ciência de Dados 💻
+🌱 Estudando Python para Ciência de Dados e Front-End 💻
 </li>
 <li>
  💞️ À procura do Home-Office
