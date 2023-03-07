@@ -26,7 +26,6 @@
   <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leticia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Leticia-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg">
-  <img align="left" alt="Leticia-´Profile" height="220" width="260" src="[https://github.com/leticiacr95/leticiacr95/blob/main/me.png]">
   </div> 
  
 
